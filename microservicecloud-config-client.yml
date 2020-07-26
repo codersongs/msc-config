@@ -19,7 +19,7 @@ server:
 spring:
   profiles: test  #测试环境
   application:
-   name: microservicecloud-config-client-refresh
+   name: microservicecloud-config-client-refreshabc
 eureka:
   client:
     service-url:
